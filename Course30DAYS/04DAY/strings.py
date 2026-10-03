@@ -1,3 +1,4 @@
+#https://github.com/Asabeneh/30-Days-Of-Python/blob/master/Spanish/04_strings_sp.md
 print('I hope everyone is enjoying the Python Challenge.\nAre you ?') # nueva línea
 print('Days\tTopics\tExercises') # añade una tabulación
 print('Day 1\t5\t5')

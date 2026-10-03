@@ -1,3 +1,5 @@
+#https://docs.python.org/es/3/tutorial/datastructures.html
+#https://github.com/Asabeneh/30-Days-Of-Python/blob/master/Spanish/05_lists_sp.md
 front_end = ['HTML', 'CSS', 'JS', 'React', 'Redux']
 back_end = ['Node','Express', 'MongoDB']
 

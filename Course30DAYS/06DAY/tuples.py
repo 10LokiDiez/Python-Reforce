@@ -1,3 +1,4 @@
+#https://github.com/Asabeneh/30-Days-Of-Python/blob/master/Spanish/06_tuples_sp.md
 tpl1 = ('item1', 'item2', 'item3')
 del tpl1
 
