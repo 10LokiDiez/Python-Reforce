@@ -8,9 +8,11 @@ email = input("Enter your email address: ").strip()
 ? 0 OR 1 REP
 {m} m REP
 {m,n} m-n REP
+^ AT THE START
+$ AT THE END
 """
 #raw string (r" \")
-if re.search(".+@.+\\.edu",email):
+if re.search(r"^.+@.+\.edu$",email):
     print("VALID")
 else:
     print("INVALID")
