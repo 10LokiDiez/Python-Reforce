@@ -1,5 +1,7 @@
 import csv
 
+#definimos lo que querimos ordenar, basicamente nos daria como
+#una lista de estudiantes
 def studentsorder(student):
     return student["name"]
 

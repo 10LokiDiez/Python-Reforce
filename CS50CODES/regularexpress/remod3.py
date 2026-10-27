@@ -40,3 +40,4 @@ if re.search(r"^\w+@(\w+\.)?\w+\.(com|edu|net|gov|org)$",email,re.IGNORECASE):
     print("VALID")
 else:
     print("INVALID")
+    
